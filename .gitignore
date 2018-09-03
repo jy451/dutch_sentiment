@@ -1,0 +1,10 @@
+*.zip
+*.rar
+*.via
+*.tmp
+*.err
+*.bin
+*.dat
+*.pyc
+*.pdf
+runs/
